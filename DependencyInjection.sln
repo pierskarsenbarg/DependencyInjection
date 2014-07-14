@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection.Ninject
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection.SimpleInjector", "DependencyInjection.SimpleInjector\DependencyInjection.SimpleInjector.csproj", "{30B66668-01A4-4027-96D5-1CB4533E551D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection.AutoFac", "DependencyInjection.AutoFac\DependencyInjection.AutoFac.csproj", "{75B956DA-A46E-480E-A94B-CC8DA9A9B3F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -40,6 +42,10 @@ Global
 		{30B66668-01A4-4027-96D5-1CB4533E551D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30B66668-01A4-4027-96D5-1CB4533E551D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30B66668-01A4-4027-96D5-1CB4533E551D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75B956DA-A46E-480E-A94B-CC8DA9A9B3F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75B956DA-A46E-480E-A94B-CC8DA9A9B3F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75B956DA-A46E-480E-A94B-CC8DA9A9B3F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75B956DA-A46E-480E-A94B-CC8DA9A9B3F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
